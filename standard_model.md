@@ -12,6 +12,7 @@ The Standard Model of Particle Physics
 | down quark    | d      | 1/2  | -1/3    | 0.0048                  |
 | charm quark   | c      | 1/2  | 2/3     | 1.275                   |
 | strange quark | s      | 1/2  | -1/3    | 0.095                   |
+| top quark     | t      | 1/2  | 2/3     | 175                     |
 | bottom quark  | b      | 1/2  | -1/3    | 4.18                    |
 | photon        | γ      | 1    | 0       | 0                       |
 | Z boson       | Z      | 1    | 0       | 91.2                    |
