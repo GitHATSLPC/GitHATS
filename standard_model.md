@@ -19,3 +19,6 @@ The Standard Model of Particle Physics
 | W boson       | W      | 1    | ±1      | 80.4                    |
 | gluon         | g      | 1    | 0       | 0                       |
 | Higgs boson   | H      | 0    | 0       | 125                     |
+| gluino        | g&#771; | 1/2 | 0       | 2000                    |
+| neutralino    | χ&#771; | 1/2 | 0       | 275                     |
+| Giton         | G      | 2    |    0    |      750                |
