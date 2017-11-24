@@ -21,3 +21,4 @@ The Standard Model of Particle Physics
 | Higgs boson   | H      | 0    | 0       | 125                     |
 | gluino        | g&#771; | 1/2 | 0       | 2000                    |
 | neutralino    | χ&#771; | 1/2 | 0       | 275                     |
+| Giton         | G      | 2    |    0    |      750                |
