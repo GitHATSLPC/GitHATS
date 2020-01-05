@@ -19,4 +19,8 @@ The Standard Model of Particle Physics
 | W boson       | W      | 1    | ±1      | 80.4                    |
 | gluon         | g      | 1    | 0       | 0                       |
 | Higgs boson   | H      | 0    | 0       | 125                     |
+<<<<<<< HEAD
 | Giton         | G      | 2    | 0       | 750			    |
+=======
+| Giton         | G      | 2    | 0       | 750                     |
+>>>>>>> 782d9ae538f6cf800cf07f76c314f3e5a3a3a44b
