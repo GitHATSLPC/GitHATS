@@ -1,3 +1,5 @@
+
+
 The Standard Model of Particle Physics
 
 | Particle Name | Symbol | Spin | Charge | Mass [GeV/c<sup>2</sup>] |
@@ -19,3 +21,4 @@ The Standard Model of Particle Physics
 | W boson       | W      | 1    | ±1      | 80.4                    |
 | gluon         | g      | 1    | 0       | 0                       |
 | Higgs boson   | H      | 0    | 0       | 125                     |
+| Giton         | G      | 2    | 0       | 750                     |
