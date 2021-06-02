@@ -1,4 +1,4 @@
-The Standard Model of Particle Physics
+Particle Zoo
 
 | Particle Name | Symbol | Spin | Charge | Mass [GeV/c<sup>2</sup>] |
 | ------------- | ------ | ---- | ------ | ------------------------ |
