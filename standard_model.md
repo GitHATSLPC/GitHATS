@@ -1,5 +1,5 @@
 The Standard Model of Particle Physics
-
+ x
 | Particle Name | Symbol | Spin | Charge | Mass [GeV/c<sup>2</sup>] |
 | ------------- | ------ | ---- | ------ | ------------------------ |
 | electron      | e      | 1/2  | -1     | 0.000511                 |
