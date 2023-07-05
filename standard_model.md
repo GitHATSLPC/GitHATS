@@ -20,3 +20,4 @@ The Standard Model of Particle Physics
 | gluon         | g      | 1    | 0       | 0                       |
 | Higgs boson   | H      | 0    | 0       | 125                     |
 | Gilton        | G      | 2    | 0       | 750                     |
+| Psudo Scalar  | A      | 0    | 0       | 4                       |
