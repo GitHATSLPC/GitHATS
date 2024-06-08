@@ -2,6 +2,7 @@ The Standard Model of Particle Physics
 
 | Particle Name | Symbol | Spin | Charge | Mass [GeV/c<sup>2</sup>] |
 | ------------- | ------ | ---- | ------ | ------------------------ |
+| Giton         | G      | 2    | 0      | 750.0
 | electron      | e      | 1/2  | -1     | 0.000511                 |
 | muon          | μ      | 1/2  | -1     | 0.1057                   |
 | tau           | τ      | 1/2  | -1     | 1.777                    |
