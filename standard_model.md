@@ -18,4 +18,5 @@ The Standard Model of Particle Physics
 | Z boson       | Z      | 1    | 0       | 91.2                    |
 | W boson       | W      | 1    | ±1      | 80.4                    |
 | gluon         | g      | 1    | 0       | 0                       |
+| Giton         | G      | 2    | 0       | 750                     |
 | Higgs boson   | H      | 0    | 0       | 125                     |
