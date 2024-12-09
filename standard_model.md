@@ -14,6 +14,7 @@ The Standard Model of Particle Physics
 | strange quark | s      | 1/2  | -1/3    | 0.095                   |
 | top quark     | t      | 1/2  | 2/3     | 175                     |
 | bottom quark  | b      | 1/2  | -1/3    | 4.18                    |
+| Giton         | G      | 2    | 0       | 750                     |
 | photon        | γ      | 1    | 0       | 0                       |
 | Z boson       | Z      | 1    | 0       | 91.2                    |
 | W boson       | W      | 1    | ±1      | 80.4                    |
