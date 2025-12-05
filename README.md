@@ -1,2 +1,2 @@
 # GitHATS
-Example repository for the Git/GitHub HATS @ LPC
+Example repository for the Git/GitH
